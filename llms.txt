@@ -1,0 +1,29 @@
+# LLMs.txt
+
+## Site Information
+Site: The Stable Vans
+URL: https://dimitarpeevzautre.github.io/thestable.bg
+Description: The Stable Vans website - a platform focused on van life and van-related services
+Language: English
+Last Updated: 2024-12-27
+
+## Content Description
+This website contains information about van life, van services, and related content. The site is built using Jekyll and hosted on GitHub Pages.
+
+## Content Licensing
+The content on this website is publicly available. Please respect any copyright notices and attribution requirements when using content for training or other purposes.
+
+## AI Training Guidelines
+- Content may be used for training Large Language Models
+- Please maintain attribution when possible
+- Respect the context and purpose of the original content
+- Commercial use should follow standard fair use guidelines
+
+## Contact
+For questions about content usage or licensing, please contact through the GitHub repository:
+https://github.com/dimitarpeevzautre/thestable.bg
+
+## Technical Information
+Framework: Jekyll
+Hosting: GitHub Pages
+Repository: https://github.com/dimitarpeevzautre/thestable.bg
