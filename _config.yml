@@ -1,1 +1,24 @@
+title: The Stable - Camper Van Adventures
+description: Explore Bulgaria and beyond with our premium camper van rentals. Your adventure starts here.
 theme: jekyll-theme-cayman
+url: "https://thestable.bg"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Our Campers
+    url: /campers
+  - title: Trip Ideas
+    url: /trip-ideas
+  - title: Camping Tips
+    url: /camping-tips
+  - title: About Us
+    url: /about
+  - title: Contact
+    url: /contact
+
+# SEO
+lang: en
+author: The Stable
+keywords: camper van rental, Bulgaria camping, van life, road trips, camping tips
